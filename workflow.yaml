@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: updatedfetch 
-  title: Update updated fetch
+  title: Dynamic Picker Example
   description: A template to test GitSync variables
 spec:
   owner: khushi.sharma@harness.io
